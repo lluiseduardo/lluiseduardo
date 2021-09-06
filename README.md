@@ -76,7 +76,7 @@ No entanto, em 2017 descobrir o mundo chamado Cloud e aprendendo a construir e m
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lluiseduardo&layout=compact&theme=merko" />
   </a>
  
-   ![Snake animation](https://github.com/luiseduardosc/luiseduardosc/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/lluiseduardo/lluiseduardo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
