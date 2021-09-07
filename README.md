@@ -3,7 +3,7 @@
 Trabalho com TI desde 2011. Durante esse tempo, trabalhei como Suporte, Redes e SysAdmin.
 No entanto, em 2017 descobrir o mundo chamado Cloud e tive uma grande oportunidade de participar de um projeto de Segurança da Informação onde dava tratativa sobre problemas de vulnerabilidades em Cloud baseando-se em documentações oficiais da AWS, foi uma experiencia que me deu um gatilho para aprender mais sobre Cloud. Em 2019, comecei a aprender sobre a cultura DevOps e hoje estou estudando mais e mais para migrar em DevOps ou SRE.
 
-Apaixonado por Tecnologia, Games e Cerveja !!! :) 
+Apaixonado por Tecnologia, Games e Cerveja e Viajar!!! :) 
 
 
 #
